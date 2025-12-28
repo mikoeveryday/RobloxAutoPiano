@@ -1,6 +1,8 @@
 # 🎹 Roblox AutoPiano
 
-Automated piano player for Roblox piano games.  Paste your piano sheet and let it play!
+Automated piano player for Roblox piano games. Paste your piano sheet and let it play!
+
+> ⚠️ **This is the first version (v1.0.0)** - some things might not be perfect yet, but I'll keep improving it based on your feedback!
 
 ## ✨ Features
 
@@ -44,9 +46,10 @@ Automated piano player for Roblox piano games.  Paste your piano sheet and let i
 
 [ST] S I a u p [dy] O T S I a u p
 
+
 ## ⚠️ Disclaimer
 
-This tool is for educational purposes only. Use at your own risk. The author is not responsible for any consequences of using this software.
+This tool is for educational purposes only.  Use at your own risk. The author is not responsible for any consequences of using this software.
 
 ## 📜 License
 
@@ -56,5 +59,6 @@ MIT License (No Resale) - see [LICENSE](LICENSE)
 
 **Miko**
 
+---
 
-⭐ Star this repo if you found it useful!
+⭐ Star this repo if you found it useful! 
